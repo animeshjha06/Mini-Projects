@@ -1,3 +1,5 @@
+import json 
+
 def is_empty(people):
     if len(people) == 0:
         return True
@@ -45,7 +47,8 @@ def search_person(people):
 print("Welcome to people management system !! ")
 print()
 
-people = []
+with open("file.json","r") as f:
+    people = json.load(f)["contacts"]
 
 while True:
     commad = input("You can 'Add','Delete','Search','View' and 'Q' for quit : ").lower()
@@ -77,3 +80,7 @@ while True:
         break
     else:
         print("Invalid input, try again")
+
+
+with open("file.json","w") as f:
+    json.dump({"contacts" : people},f,indent=4)
