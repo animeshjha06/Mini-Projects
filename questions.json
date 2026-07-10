@@ -1,0 +1,403 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "A": "Paris",
+    "B": "London",
+    "C": "Berlin",
+    "D": "Rome",
+    "answer": "A"
+  },
+  {
+    "question": "How many days are there in a week?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "answer": "C"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "A": "Earth",
+    "B": "Mars",
+    "C": "Jupiter",
+    "D": "Venus",
+    "answer": "B"
+  },
+  {
+    "question": "What color is the sky on a clear day?",
+    "A": "Blue",
+    "B": "Green",
+    "C": "Red",
+    "D": "Yellow",
+    "answer": "A"
+  },
+  {
+    "question": "Which animal says 'Meow'?",
+    "A": "Dog",
+    "B": "Cow",
+    "C": "Cat",
+    "D": "Horse",
+    "answer": "C"
+  },
+  {
+    "question": "How many months are there in a year?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "13",
+    "answer": "C"
+  },
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "A": "Atlantic",
+    "B": "Indian",
+    "C": "Pacific",
+    "D": "Arctic",
+    "answer": "C"
+  },
+  {
+    "question": "What do bees make?",
+    "A": "Milk",
+    "B": "Honey",
+    "C": "Bread",
+    "D": "Butter",
+    "answer": "B"
+  },
+  {
+    "question": "Which shape has three sides?",
+    "A": "Square",
+    "B": "Circle",
+    "C": "Rectangle",
+    "D": "Triangle",
+    "answer": "D"
+  },
+  {
+    "question": "What is 5 + 3?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "C"
+  },
+  {
+    "question": "Which season comes after summer?",
+    "A": "Spring",
+    "B": "Winter",
+    "C": "Autumn",
+    "D": "Monsoon",
+    "answer": "C"
+  },
+  {
+    "question": "Which fruit is yellow?",
+    "A": "Apple",
+    "B": "Banana",
+    "C": "Grapes",
+    "D": "Cherry",
+    "answer": "B"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "A": "6",
+    "B": "8",
+    "C": "10",
+    "D": "12",
+    "answer": "B"
+  },
+  {
+    "question": "Which gas do humans breathe in?",
+    "A": "Carbon Dioxide",
+    "B": "Hydrogen",
+    "C": "Oxygen",
+    "D": "Nitrogen",
+    "answer": "C"
+  },
+  {
+    "question": "Which is the tallest animal?",
+    "A": "Elephant",
+    "B": "Lion",
+    "C": "Giraffe",
+    "D": "Horse",
+    "answer": "C"
+  },
+  {
+    "question": "What is 10 - 4?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "Which bird cannot fly?",
+    "A": "Eagle",
+    "B": "Sparrow",
+    "C": "Penguin",
+    "D": "Crow",
+    "answer": "C"
+  },
+  {
+    "question": "Which country is famous for the Eiffel Tower?",
+    "A": "Italy",
+    "B": "France",
+    "C": "Germany",
+    "D": "Spain",
+    "answer": "B"
+  },
+  {
+    "question": "How many hours are there in a day?",
+    "A": "12",
+    "B": "18",
+    "C": "24",
+    "D": "36",
+    "answer": "C"
+  },
+  {
+    "question": "Which is the fastest land animal?",
+    "A": "Tiger",
+    "B": "Leopard",
+    "C": "Cheetah",
+    "D": "Horse",
+    "answer": "C"
+  },
+  {
+    "question": "What do plants need to make food?",
+    "A": "Sunlight",
+    "B": "Plastic",
+    "C": "Paper",
+    "D": "Stone",
+    "answer": "A"
+  },
+  {
+    "question": "What is the opposite of hot?",
+    "A": "Warm",
+    "B": "Cold",
+    "C": "Dry",
+    "D": "Wet",
+    "answer": "B"
+  },
+  {
+    "question": "Which instrument has black and white keys?",
+    "A": "Drum",
+    "B": "Violin",
+    "C": "Piano",
+    "D": "Flute",
+    "answer": "C"
+  },
+  {
+    "question": "How many wheels does a bicycle have?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "Which is the smallest prime number?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "answer": "B"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "A": "50°C",
+    "B": "75°C",
+    "C": "100°C",
+    "D": "150°C",
+    "answer": "C"
+  },
+  {
+    "question": "Which metal is attracted to a magnet?",
+    "A": "Iron",
+    "B": "Gold",
+    "C": "Silver",
+    "D": "Copper",
+    "answer": "A"
+  },
+  {
+    "question": "Which is the largest mammal?",
+    "A": "Elephant",
+    "B": "Blue Whale",
+    "C": "Shark",
+    "D": "Hippo",
+    "answer": "B"
+  },
+  {
+    "question": "Which day comes before Friday?",
+    "A": "Wednesday",
+    "B": "Thursday",
+    "C": "Saturday",
+    "D": "Monday",
+    "answer": "B"
+  },
+  {
+    "question": "What is 9 * 2?",
+    "A": "16",
+    "B": "17",
+    "C": "18",
+    "D": "20",
+    "answer": "C"
+  },
+  {
+    "question": "Which planet do we live on?",
+    "A": "Mars",
+    "B": "Venus",
+    "C": "Earth",
+    "D": "Saturn",
+    "answer": "C"
+  },
+  {
+    "question": "Which sense organ is used for hearing?",
+    "A": "Eye",
+    "B": "Ear",
+    "C": "Nose",
+    "D": "Tongue",
+    "answer": "B"
+  },
+  {
+    "question": "How many continents are there?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "answer": "C"
+  },
+  {
+    "question": "Which is the hottest star in our solar system?",
+    "A": "Moon",
+    "B": "Sun",
+    "C": "Mars",
+    "D": "Jupiter",
+    "answer": "B"
+  },
+  {
+    "question": "What is 15 divided by 3?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "answer": "C"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "A": "Tiger",
+    "B": "Elephant",
+    "C": "Lion",
+    "D": "Wolf",
+    "answer": "C"
+  },
+  {
+    "question": "Which color is made by mixing red and blue?",
+    "A": "Green",
+    "B": "Purple",
+    "C": "Orange",
+    "D": "Brown",
+    "answer": "B"
+  },
+  {
+    "question": "How many fingers are there on two hands?",
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "12",
+    "answer": "C"
+  },
+  {
+    "question": "Which is the first month of the year?",
+    "A": "January",
+    "B": "March",
+    "C": "June",
+    "D": "December",
+    "answer": "A"
+  },
+  {
+    "question": "Which animal gives us wool?",
+    "A": "Goat",
+    "B": "Cow",
+    "C": "Sheep",
+    "D": "Horse",
+    "answer": "C"
+  },
+  {
+    "question": "Which country is famous for pizza?",
+    "A": "India",
+    "B": "Italy",
+    "C": "Japan",
+    "D": "Brazil",
+    "answer": "B"
+  },
+  {
+    "question": "What is 7 + 6?",
+    "A": "12",
+    "B": "13",
+    "C": "14",
+    "D": "15",
+    "answer": "B"
+  },
+  {
+    "question": "Which object tells time?",
+    "A": "Chair",
+    "B": "Clock",
+    "C": "Book",
+    "D": "Bottle",
+    "answer": "B"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "A": "Amazon",
+    "B": "Nile",
+    "C": "Ganga",
+    "D": "Yangtze",
+    "answer": "B"
+  },
+  {
+    "question": "Which is the hardest natural substance?",
+    "A": "Iron",
+    "B": "Gold",
+    "C": "Diamond",
+    "D": "Silver",
+    "answer": "C"
+  },
+  {
+    "question": "What is 20 - 5?",
+    "A": "10",
+    "B": "15",
+    "C": "20",
+    "D": "25",
+    "answer": "B"
+  },
+  {
+    "question": "Which language is primarily used for web page structure?",
+    "A": "Python",
+    "B": "Java",
+    "C": "HTML",
+    "D": "C++",
+    "answer": "C"
+  },
+  {
+    "question": "Which device is used to point and click on a computer?",
+    "A": "Keyboard",
+    "B": "Monitor",
+    "C": "Mouse",
+    "D": "Printer",
+    "answer": "C"
+  },
+  {
+    "question": "Which number comes after 99?",
+    "A": "98",
+    "B": "100",
+    "C": "101",
+    "D": "102",
+    "answer": "B"
+  },
+  {
+    "question": "What is the freezing point of water?",
+    "A": "0C",
+    "B": "25°C",
+    "C": "50°C",
+    "D": "100°C",
+    "answer": "A"
+  }
+]
+
